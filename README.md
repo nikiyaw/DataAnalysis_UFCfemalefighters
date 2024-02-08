@@ -1,4 +1,4 @@
-# Data Analysis, UFC Female Fighter Satistics
+# Data Analysis, UFC Female Fighter Statistics
 
 ## Overview
 The goal of this project is to perform an in-dept EDA and study the statistics for all the UFC female fighters, which includes evaluating individual basic fighting metrics and all of the fight histories. 
